@@ -19,8 +19,8 @@ I am Alan Zhou. Here are some facts about me:
 - 🌱 I’m currently learning R, XML, and Discord.py
 - 📫 How to reach me: alandzhou@outlook.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alanreviews)](https://github.com/anuraghazra/github-readme-stats)
-![Matthew's github stats](https://github-readme-stats.vercel.app/api/username=alanreviews&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff&hide=issues,contribs) 
+[![Alan's github stats](https://github-readme-stats.vercel.app/api?username=alanreviews)](https://github.com/anuraghazra/github-readme-stats)
+![Alan's github stats](https://github-readme-stats.vercel.app/api/username=alanreviews&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff&hide=issues,contribs) 
 
 # Social Media
 - [Behance](https://www.behance.net/alandzhou)
