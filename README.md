@@ -20,6 +20,8 @@ I am Alan Zhou. Here are some facts about me:
 - 📫 How to reach me: alandzhou@outlook.com
 
 [![Alan's github stats](https://github-readme-stats.vercel.app/api?username=alanreviews)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanreviews)](https://github.com/anuraghazra/github-readme-stats)
+
 
 # Social Media
 - [Behance](https://www.behance.net/alandzhou)
