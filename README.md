@@ -17,7 +17,6 @@ I am Alan Zhou. Here are some facts about me:
 - I am open to many opportunities! When it comes to opportunities, I catch them all like Pokémon!
 - 🔭 I’m currently working at NRC
 - 🌱 I’m currently learning R, XML, and Discord.py
-- 📫 How to reach me: alandzhou@outlook.com
 
 [![Alan's github stats](https://github-readme-stats.vercel.app/api?username=alanreviews)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanreviews&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
