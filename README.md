@@ -10,17 +10,24 @@ Here are some ideas to get you started:
 ### Hi there 👋
 I am Alan Zhou. Here are some facts about me:
 
-- I am a gamer and a Carleton computer science student
+- I am a Carleton computer science student with an interest in web development, video games, and programming
 - Pronouns: He/him
 - I am open to many opportunities! When it comes to opportunities, I catch them all like Pokémon!
-- 🌱 I’m currently learning R, Discord.js, and Discord.py
+- 🌱 I’m currently learning R, Java, Discord.js, and Discord.py
 - ⚡ Fun fact: I can speak English. I have an elementary proficieny in French and German. I understand a little bit of Chinese.
 
-[![Alan's github stats](https://github-readme-stats.vercel.app/api?username=alanreviews)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanreviews&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+### Bonjour
+Je m'appelle Alan Zhou. Voici mes faits:
+- Je suis un etudiant à Carleton University
+- J'etudie informatique
+- J'aime jeux video
+- J'apprends les Langage de programmation: R et Java. J'apprends Discord.js et Discord.py
+- Je parle un peu allemagne, chinois, et français
 
 # Social Media
 - [Behance](https://www.behance.net/alandzhou)
 - [LinkedIn](https://www.linkedin.com/in/alan-d-zhou/)
 - [Website](https://alanreviews.github.io/)
+
+[![Alan's github stats](https://github-readme-stats.vercel.app/api?username=alanreviews)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanreviews&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
