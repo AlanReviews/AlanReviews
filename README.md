@@ -1,10 +1,6 @@
 <!--
 **AlanReviews/AlanReviews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-
-
 -->
 
 ### Hi there 👋
@@ -12,9 +8,9 @@ I am Alan Zhou. Here are some facts about me:
 
 - I am a Carleton computer science student with an interest in web development, video games, and programming
 - Pronouns: He/him
-- I am open to many opportunities! When it comes to opportunities, I catch them all like Pokémon!
+- I am open to many opportunities in the summer and fall
 - 🌱 I’m currently learning R, Java, Discord.js, and Discord.py
-- ⚡ Fun fact: I can speak English. I have an elementary proficieny in French and German. I understand a little bit of Chinese.
+- ⚡ Fun fact: I can speak English. I have an intermediate proficieny in French and an elementary proficiency German. I understand a little bit of Chinese.
 
 ### Bonjour
 Je m'appelle Alan Zhou. Voici mes faits:
