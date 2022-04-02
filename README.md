@@ -14,11 +14,10 @@ I am Alan Zhou. Here are some facts about me:
 
 ### Bonjour
 Je m'appelle Alan Zhou. Voici mes faits:
-- Je suis un etudiant à Carleton University
-- J'etudie informatique
+- J'etudie informatique à Carleton University
 - J'aime jeux video
-- J'apprends les Langage de programmation: R et Java. J'apprends Discord.js et Discord.py
-- Je parle un peu allemagne, chinois, et français
+- J'apprends les Langages de programmation: R et Java. J'apprends Discord.js et Discord.py
+- Je parle français, allemagne, et chinois
 
 # Online
 - [Behance](https://www.behance.net/alandzhou)
