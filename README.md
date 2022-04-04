@@ -13,11 +13,11 @@ I am Alan Zhou. Here are some facts about me:
 - ⚡ Fun fact: I can speak English. I have an intermediate proficieny in French and an elementary proficiency German. I understand a little bit of Chinese.
 
 ### Bonjour
-Je m'appelle Alan Zhou. Voici mes faits:
-- J'etudie informatique à Carleton University
-- J'aime jeux video
-- J'apprends les Langages de programmation: R et Java. J'apprends Discord.js et Discord.py
-- Je parle français, allemagne, et chinois
+Je m'appelle Alan Zhou. Voici quelques information:
+- J'étudie l'informatique à Carleton University
+- J'aime les jeux video
+- J'apprends les langages de programmation: R et Java. J'apprends Discord.js et Discord.py
+- Je parle français, allemand et chinois
 
 # Online
 - [Behance](https://www.behance.net/alandzhou)
