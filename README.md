@@ -6,16 +6,16 @@
 ### Hi there 👋
 I am Alan Zhou. Here are some facts about me:
 
-- I am a Carleton computer science student with an interest in web development, video games, and programming
+- I am a recent graduate with a Bachelor of Computer Science from Carleton University with an interest in web development, video games, IT, and programming
 - Pronouns: He/him
-- 🌱 I’m currently learning R, Java, Discord.js, and Discord.py
-- ⚡ Fun fact: I can speak English. I have an intermediate proficieny in French and an elementary proficiency German. I understand a little bit of Chinese.
+- 🌱 I’m currently learning React, Discord.js, and Discord.py
+- ⚡ Fun fact: I can speak English. I have an intermediate proficiency in French and an elementary proficiency in German. I understand a little bit of Chinese.
 
 ### Bonjour
 Je m'appelle Alan Zhou. Voici quelques information:
-- J'étudie l'informatique à Carleton University
+- J'ai étudié l'informatique à Carleton University
 - J'aime les jeux video
-- J'apprends les langages de programmation: R et Java. J'apprends Discord.js et Discord.py
+- J'apprends React, Discord.js, and Discord.py
 - Je parle français, allemand et chinois
 
 # Online
